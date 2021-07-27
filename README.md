@@ -1,3 +1,3 @@
 # Notes
 
-SQL Notes
+SQL QueryBook
